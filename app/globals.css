@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn-case {
+  @apply bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition-all text-sm font-medium;
+}
